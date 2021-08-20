@@ -1,6 +1,6 @@
 [submodule "server/rgb-matrix"]
 	path = server/rgb-matrix
-	url = https://github.com/hzeller/rpi-rgb-led-matrix.git
+	url = https://github.com/hrueger/rpi-rgb-led-matrix
 [submodule "server/spixels"]
 	path = server/spixels
 	url = https://github.com/hzeller/spixels
